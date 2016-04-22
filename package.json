@@ -8,10 +8,10 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mistelip/axon-one"
+    "url": "https://github.com/mistelip/axon-pat"
   },
   "bugs": {
-    "url": "https://github.com/bitmorse/axon-one/issues"
+    "url": "https://github.com/bitmorse/axon-pat/issues"
   },
   "keywords": [
     "axon",
